@@ -1,12 +1,13 @@
 # AutoGPT: Documentation
 
-This script automates scraping responses from ChatGPT using a headless Chrome browser. It takes a CSV file containing queries and outputs a CSV file with both queries and corresponding responses.
+This script automates scraping responses from ChatGPT using an automated Chrome browser. It takes a CSV file containing queries and outputs a CSV file with both queries and corresponding responses.
 
 ### Download Here
 [Download Link](https://github.com/JRustyHaner/autoGPT/releases/download/prerelease/autoGPT-alpha1-python.zip)
 
     
 - Python 3.x
+- Chrome
 
 ### Linux Dependencies
 ```pip install undetected_chromedriver selenium pandas setuptools```
