@@ -4,7 +4,7 @@ This script automates scraping responses from ChatGPT using a headless Chrome br
 Dependencies
 
     Python 3.x
-    ```pip install undetected_chromedriver selenium pandas```
+    ```pip install undetected_chromedriver selenium pandas setuptools```
 
 
 ##Usage
