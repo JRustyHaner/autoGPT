@@ -3,13 +3,30 @@
 This script automates scraping responses from ChatGPT using a headless Chrome browser. It takes a CSV file containing queries and outputs a CSV file with both queries and corresponding responses.
 Dependencies
 
-    Python 3.x
-    ```pip install undetected_chromedriver selenium pandas setuptools```
+    
+- Python 3.x
+
+###Linux Dependencies
+```pip install undetected_chromedriver selenium pandas setuptools```
+
+###Windows Dependencies
+```pip.exe install undetected_chromedriver selenium pandas setuptools```~
+
+For windows you might have to install pip, the python package manger, or navigate to <your_python_install_folder>/Scripts/ before running the above command.
+
+To install python on windows [see here]([link="https://dbader.org/blog/installing-python-and-pip-on-windows-10"]
+
+To install python on Ubuntu, run the following command
+```sudo apt install python3```  
 
 
 ##Usage
 
+###Linux
 ```python3 autogpt.py <queries.csv> <output.csv>```
+
+###Windows
+```py autogpy.py <queries.csv> <output.csv>```
 
     <queries.csv>: Path to a CSV file containing one query per line.
     <output.csv>: Path to the output CSV file containing queries and responses.
