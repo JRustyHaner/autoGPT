@@ -16,7 +16,7 @@ This script automates scraping responses from ChatGPT using a headless Chrome br
 
 For windows you might have to install pip, the python package manager, or navigate to <your_python_install_folder>/Scripts/ before running the above command.
 
-To install python on windows [see here]([link="https://dbader.org/blog/installing-python-and-pip-on-windows-10"]
+To install python on windows [see here]([link="https://dbader.org/blog/installing-python-and-pip-on-windows-10")
 
 To install python on Ubuntu, run the following command
 ```sudo apt install python3```  
