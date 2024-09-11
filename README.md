@@ -5,6 +5,9 @@ This script automates scraping responses from ChatGPT using an automated Chrome 
 ### Download Here
 [Download Link](https://github.com/JRustyHaner/autoGPT/releases/download/prerelease/autoGPT-alpha1-python.zip)
 
+### Disclaimer
+
+This script may violate the  ToS of openAI's platform. Please use at your own risk. I am not responsible for this script's usage and given a request from OpenAI, it will be removed.
     
 - Python 3.x
 - Chrome
