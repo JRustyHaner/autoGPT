@@ -3,6 +3,9 @@
 This script automates scraping responses from ChatGPT using a headless Chrome browser. It takes a CSV file containing queries and outputs a CSV file with both queries and corresponding responses.
 Dependencies
 
+### Download Here
+[Download Link](https://github.com/JRustyHaner/autoGPT/releases/download/prerelease/autoGPT-alpha1-python.zip)
+
     
 - Python 3.x
 
